@@ -1,0 +1,110 @@
+[16:28:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:28:02] [ServerMain/INFO]: Loaded 1461 recipes
+[16:28:02] [ServerMain/INFO]: Loaded 1574 advancements
+[16:28:02] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[16:28:02] [Server thread/INFO]: Loading properties
+[16:28:02] [Server thread/INFO]: Default game type: SURVIVAL
+[16:28:02] [Server thread/INFO]: Generating keypair
+[16:28:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:28:02] [Server thread/INFO]: Using epoll channel type
+[16:28:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:28:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:28:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:28:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:28:02] [Server thread/INFO]: Preparing level "world"
+[16:28:03] [Server thread/INFO]: Loading 0 persistent chunks...
+[16:28:03] [Server thread/INFO]: Preparing spawn area: 100%
+[16:28:03] [Server thread/INFO]: Time elapsed: 18 ms
+[16:28:03] [Server thread/INFO]: Done (0.437s)! For help, type "help"
+[16:28:14] [Server thread/INFO]: Bichomad[/127.103.25.127:51893] logged in with entity id 22 at (-763.0420738132879, 102.0, -780.4697819935155)
+[16:28:14] [Server thread/INFO]: Bichomad joined the game
+[16:29:16] [Server thread/INFO]: SoundClicks[/127.17.21.101:33437] logged in with entity id 699 at (-42.549776649044, 38.43932945066455, -277.32218175944206)
+[16:29:16] [Server thread/INFO]: SoundClicks joined the game
+[16:29:27] [Server thread/INFO]: [Not Secure] <SoundClicks> eee
+[16:29:31] [Server thread/INFO]: [Not Secure] <Bichomad> eeee
+[16:29:44] [Server thread/INFO]: [Not Secure] <SoundClicks> wtf se hizo rollbac
+[16:29:54] [Server thread/INFO]: [Not Secure] <Bichomad> y eso
+[16:30:01] [Server thread/INFO]: [Not Secure] <SoundClicks> ni diea
+[16:30:09] [Server thread/INFO]: [Not Secure] <Bichomad> pero de hace mucho ?
+[16:30:11] [Server thread/INFO]: [Not Secure] <Bichomad> no no ?
+[16:30:20] [Server thread/INFO]: [Not Secure] <SoundClicks> como de 15m o asi
+[16:30:27] [Server thread/INFO]: [Not Secure] <SoundClicks> que estaba en casa y ahora estoy en el nether
+[16:30:33] [Server thread/INFO]: [Not Secure] <Bichomad> q cojone s
+[16:30:37] [Server thread/INFO]: [Not Secure] <Bichomad> muy loco eso
+[16:32:05] [Server thread/INFO]: [Not Secure] <SoundClicks> dormimos?
+[16:32:14] [Server thread/INFO]: [Not Secure] <SoundClicks> salte si quieres y duermo
+[16:32:18] [Server thread/INFO]: [Not Secure] <Bichomad> dale
+[16:32:19] [Server thread/INFO]: Bichomad lost connection: Disconnected
+[16:32:19] [Server thread/INFO]: Bichomad left the game
+[16:32:32] [Server thread/INFO]: Bichomad[/127.103.25.127:33089] logged in with entity id 2787 at (-690.1678291449489, 92.0, -764.3787504775134)
+[16:32:32] [Server thread/INFO]: Bichomad joined the game
+[16:34:24] [Server thread/INFO]: [Not Secure] <Bichomad> tienes polvora
+[16:34:25] [Server thread/INFO]: [Not Secure] <Bichomad> ?
+[16:34:28] [Server thread/INFO]: SoundClicks has completed the challenge [Cover Me in Debris]
+[16:34:30] [Server thread/INFO]: [Not Secure] <Bichomad> wow q estas full netherite o q
+[16:34:33] [Server thread/INFO]: [Not Secure] <SoundClicks> creo que si
+[16:34:40] [Server thread/INFO]: [Not Secure] <SoundClicks> si jaajaj ayer fui
+[16:34:45] [Server thread/INFO]: [Not Secure] <SoundClicks> toma esto
+[16:34:46] [Server thread/INFO]: [Not Secure] <Bichomad> q loco
+[16:34:51] [Server thread/INFO]: [Not Secure] <SoundClicks> usa eso como cohetes
+[16:35:06] [Server thread/INFO]: [Not Secure] <SoundClicks> voy a ver si tengo
+[16:35:10] [Server thread/INFO]: [Not Secure] <Bichomad> dale dale
+[16:36:47] [Server thread/INFO]: [Not Secure] <SoundClicks> que va no tengo bro hay que matar creeper
+[16:36:52] [Server thread/INFO]: [Not Secure] <SoundClicks> que necesitamos para la granjka de xp
+[16:37:01] [Server thread/INFO]: [Not Secure] <Bichomad> para eso lo necesitaba
+[16:37:04] [Server thread/INFO]: [Not Secure] <Bichomad> pero ya tengo
+[16:37:16] [Server thread/INFO]: [Not Secure] <SoundClicks> tengo 3 potis si necesitas
+[16:37:21] [Server thread/INFO]: [Not Secure] <Bichomad> tengo tengo
+[16:37:24] [Server thread/INFO]: [Not Secure] <SoundClicks> dale
+[16:37:34] [Server thread/INFO]: [Not Secure] <Bichomad> aqui hay 20 de polvora
+[16:37:39] [Server thread/INFO]: [Not Secure] <Bichomad> por si necesitas
+[16:37:56] [Server thread/INFO]: [Not Secure] <SoundClicks> nah chill estoy bien de xp con estas me valen
+[16:38:15] [Server thread/INFO]: [Not Secure] <Bichomad> a ti no te va bastante lag?
+[16:38:19] [Server thread/INFO]: Bichomad has made the advancement [Local Brewery]
+[16:38:20] [Server thread/INFO]: [Not Secure] <SoundClicks> nop
+[16:38:51] [Server thread/INFO]: [Not Secure] <SoundClicks> de fps dices o de ping
+[16:38:55] [Server thread/INFO]: [Not Secure] <Bichomad> PING
+[16:39:01] [Server thread/WARN]: Bichomad moved too quickly! -13.059480229818405,-4.115820863021611,-11.92041144250527
+[16:39:10] [Server thread/INFO]: [Not Secure] <SoundClicks> a pues no
+[16:39:13] [Server thread/INFO]: [Not Secure] <Bichomad> voy casi teletransportandome
+[16:39:30] [Server thread/INFO]: [Not Secure] <SoundClicks> ah pues nop voy gucci ahora
+[16:40:12] [Server thread/INFO]: [Not Secure] <Bichomad> va bien la granja no?
+[16:40:15] [Server thread/INFO]: [Not Secure] <SoundClicks> sip
+[16:44:00] [Server thread/INFO]: Bichomad has made the advancement [Enchanter]
+[16:45:15] [Server thread/INFO]: [Not Secure] <Bichomad> ahora vengo
+[16:45:17] [Server thread/INFO]: Bichomad lost connection: Disconnected
+[16:45:17] [Server thread/INFO]: Bichomad left the game
+[16:46:41] [Server thread/WARN]: SoundClicks moved wrongly!
+[16:46:41] [Server thread/WARN]: SoundClicks moved wrongly!
+[16:49:50] [Server thread/INFO]: Bichomad[/127.103.25.127:51821] logged in with entity id 9800 at (-693.3179625813784, 92.0, -747.0493808835068)
+[16:49:50] [Server thread/INFO]: Bichomad joined the game
+[16:51:43] [Server thread/INFO]: Bichomad has made the advancement [Who Needs Rockets?]
+[17:06:44] [Server thread/INFO]: Bichomad lost connection: Disconnected
+[17:06:44] [Server thread/INFO]: Bichomad left the game
+[17:23:14] [Server thread/WARN]: SoundClicks moved wrongly!
+[17:24:36] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-578, y=63, z=-646} ja{x=-577, y=63, z=-646}
+[17:47:59] [Server thread/WARN]: SoundClicks moved wrongly!
+[17:49:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-703, y=98, z=-728} ja{x=-703, y=97, z=-728}
+[17:49:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-703, y=98, z=-728} ja{x=-703, y=97, z=-728}
+[17:50:01] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-695, y=109, z=-727} ja{x=-695, y=103, z=-727}
+[17:50:05] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-695, y=109, z=-727} ja{x=-692, y=103, z=-727}
+[17:50:05] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-695, y=109, z=-727} ja{x=-693, y=103, z=-727}
+[17:50:05] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-695, y=109, z=-727} ja{x=-693, y=103, z=-727}
+[17:55:36] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-782, y=95, z=-758} ja{x=-783, y=95, z=-758}
+[17:55:37] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-782, y=95, z=-758} ja{x=-785, y=95, z=-758}
+[17:57:00] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-784, y=95, z=-763} ja{x=-787, y=96, z=-760}
+[17:59:06] [Server thread/WARN]: SoundClicks moved wrongly!
+[18:05:33] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-697, y=89, z=-734} ja{x=-699, y=88, z=-734}
+[18:09:30] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-692, y=92, z=-751} ja{x=-689, y=88, z=-735}
+[18:09:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-690, y=89, z=-736} ja{x=-691, y=88, z=-737}
+[18:21:07] [Server thread/WARN]: SoundClicks moved wrongly!
+[18:22:21] [Server thread/INFO]: Villager cyx['Villager'/23690, l='ServerLevel[world]', x=-698.21, y=91.45, z=-730.70] died, message: 'Villager was slain by SoundClicks'
+[18:22:36] [Server thread/WARN]: SoundClicks moved wrongly!
+[18:23:51] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-697, y=90, z=-733} ja{x=-697, y=93, z=-733}
+[18:25:21] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-689, y=92, z=-733} ja{x=-688, y=87, z=-737}
+[18:27:42] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-695, y=95, z=-727} ja{x=-696, y=94, z=-731}
+[18:28:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-696, y=92, z=-730} ja{x=-696, y=94, z=-729}
+[18:28:45] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-698, y=98, z=-722} ja{x=-696, y=97, z=-724}
+[18:29:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-703, y=97, z=-723} ja{x=-696, y=95, z=-727}
+[18:30:10] [Server thread/WARN]: SoundClicks moved wrongly!
+[18:30:18] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-703, y=97, z=-723} ja{x=-698, y=96, z=-735}
